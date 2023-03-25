@@ -1,7 +1,7 @@
 # iOS_development_posting
 iOS 개발관련 정리
 
-### xcode에서 한글로 Key Binding
+## xcode에서 한글로 Key Binding
 xcode 14부터 xcode - settings - Key Bindings에서 키보드를 한글로 변경하면 shortcut 등록이 안됨
 Key Bindings 파일에 직접 등록하는 방식으로 해결
 ~/Library/Developer/Xcode/UserData/KeyBindings/Default.idekeybindings
